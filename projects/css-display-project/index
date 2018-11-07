@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+    <body>
+      <main>
+  <p>
+<img src="https://s3.amazonaws.com/bitmakerhq/resources/web-development/display-property-example-layout.png" alt="">
+ </p>
+</html>
